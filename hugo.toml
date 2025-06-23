@@ -56,9 +56,6 @@ enableGitInfo = true      # Enable Git info for lastmod
     
     # Header Buttons (optional)
     [params.header.buttons]
-      [params.header.buttons.signIn]
-        text = "Sign in"
-        url = "/signin"
       [params.header.buttons.getStarted]
         text = "Get Started"
         url = "/get-started"

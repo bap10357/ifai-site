@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/get-started/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/jobs/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
   </url><url>
@@ -104,8 +107,7 @@
     <loc>/company/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
   </url><url>
-    <loc>/features/design-system/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
+    <loc>/features/feature-1/</loc>
   </url><url>
     <loc>/features/developer-experience/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
@@ -122,8 +124,7 @@
     <loc>/license/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
   </url><url>
-    <loc>/features/performance/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
+    <loc>/features/feature-2/</loc>
   </url><url>
     <loc>/pricing/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
