@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>更新 在 布雷迪中文版的博客</title>
+    <link>https://brpe.cc/zh-hant/tags/%E6%9B%B4%E6%96%B0/</link>
+    <description>近期文章 在 更新 在 布雷迪中文版的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-hant</language>
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://brpe.cc/zh-hant/tags/%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小小消息</title>
+      <link>https://brpe.cc/zh-hant/posts/%E5%B0%8F%E5%B0%8F%E6%B6%88%E6%81%AF/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://brpe.cc/zh-hant/posts/%E5%B0%8F%E5%B0%8F%E6%B6%88%E6%81%AF/</guid>
+      <description>&lt;figure&gt;&#xA;    &lt;iframe style=&#34;aspect-ratio: 4/3&#34; src=&#34;https://www.youtube.com/embed/VIG9gy050Nc?si=-mhkCcBGq_iIIHEN&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;    &lt;figcaption&gt;讓我起床！&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;給你消息以前，讓我給你找到的特別禮物！&lt;/p&gt;&#xA;&lt;p&gt;我好久沒在博客貼不是照片的媒體。請享受。&lt;/p&gt;&#xA;&lt;p&gt;反正，今天我有更新了博客，開始用「Hugo Zen」的風格。很好看，然後我也吧了alt text成為照片下面的說明。在說明好像只有笑話&amp;hellip;&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;我希望你不能忘記以上的banger。&lt;/p&gt;&#xA;&lt;p&gt;下星期見！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
