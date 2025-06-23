@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# Ensure this only runs for the www subdomain and HTTP
+RewriteCond %{HTTP_HOST} ^www\.brpe\.cc$ [NC]
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://brpe.cc/$1 [L,R=301]
+
