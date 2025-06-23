@@ -1,7 +1,7 @@
 # Basic Configuration
 baseURL = "/"
 languageCode = "en-us"
-title = "SmartPCB QA"
+title = "SmartPCB AI"
 theme = "hugo-saasify-theme"
 
 # Required Features
@@ -37,7 +37,7 @@ enableGitInfo = true      # Enable Git info for lastmod
 [params]
   description = "Your site description"
   author = "Your Name"
-  logo = "/images/logo.png"      # Path to your logo
+  logo = "/images/logo.svg"      # Path to your logo
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   googleAnalytics = "G-XXXXXXXXXX"  # Only enabled in production
 
@@ -52,10 +52,13 @@ enableGitInfo = true      # Enable Git info for lastmod
     
     # Header Logo
     [params.header.logo]
-      src = "/images/logo.png"
+      src = "/images/logo.svg"
     
     # Header Buttons (optional)
     [params.header.buttons]
+      [params.header.buttons.signIn]
+        text = "Contact"
+        url = "/contact"
       [params.header.buttons.getStarted]
         text = "Get Started"
         url = "/get-started"

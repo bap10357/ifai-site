@@ -6,8 +6,8 @@ layout: "pricing"
 
 {{< pricing-table-1 >}}
 {
-    "title": "Designed for business teams like yours",
-    "description": "Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.",
+    "title": "Verification at all scales: from startups to corporations",
+    "description": "SmartPCB is software designed for teams as small as one and scalable to teams of any size, in any PCB verification setting. Whether it's for internal testing or a final product, SmartPCB's AI-assisted algorithms make verification simple and functional.",
     "plans": [
         {
             "name": "Starter",

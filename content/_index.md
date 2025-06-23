@@ -27,12 +27,12 @@ testimonials:
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
-    primary_button_text="Get Started Free"
-    primary_button_url="#"
-    secondary_button_text="View Demo"
-    secondary_button_url="#"
+    headline="Faster, more accurate verification"
+    sub_headline="SmartPCB is an AI-assisted tool that helps verification engineers diagnose and predict issues more quickly and easily than possible using older, more traditional verification software tools."
+    primary_button_text="Get started"
+    primary_button_url="/get-started"
+    secondary_button_text="Contact"
+    secondary_button_url="/contact"
     hero_image="/images/hero-dashboard.svg"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
