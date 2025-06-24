@@ -66,15 +66,14 @@ enableGitInfo = true      # Enable Git info for lastmod
   # Global CTA Configuration (optional)
   [params.cta]
     enable = true
-    title = "Ready to Get Started?"
-    description = "Join companies using our platform"
+    title = "Ready to Get Started?" 
+    description = "Give your engineers a modern, usable, functional tool."
     [params.cta.primary_button]
-      text = "Get Started Free"
-      url = "/get-started"
+      text = "Get started"
+      url = "/get-started"  
     [params.cta.secondary_button]
-      text = "Book Demo"
-      url = "/demo"
-
+      text = "See pricing"
+      url = "/pricing"
   # Social Media Links (optional)
   [params.social]
     linkedin = "https://linkedin.com/in/yourusername"
