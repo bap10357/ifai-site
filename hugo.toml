@@ -89,8 +89,9 @@ enableGitInfo = true      # Enable Git info for lastmod
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Feature 1", url = "/features/feature-1/" },
-        { name = "Feature 2", url = "/features/feature-2/" }
+        { name = "Efficiency", url = "/features/efficiency/" },
+        { name = "Machine Learning", url = "/features/machine-learning/" },
+        { name = "Ease of Use", url = "/features/ease-of-use/" }
       ]
   [[menu.main]]
     name = "Pricing"
