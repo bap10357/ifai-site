@@ -11,14 +11,14 @@ layout: "pricing"
     "plans": [
         {
             "name": "Starter",
-            "price": "29",
-            "description": "Best option for personal use & for your next project.",
+            "price": "249",
+            "description": "Designed for teams of one person, best for startups and small firms.",
             "features": [
                 "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 1 developer",
-                "Premium support: 6 months",
-                "Free updates: 6 months"
+                "Simple workflow integration",
+                "Team size: 1 engineer",
+                "Premium support: 24 months",
+                "Free updates: 48 months"
             ],
             "button": {
                 "text": "Get started",
@@ -27,15 +27,15 @@ layout: "pricing"
         },
         {
             "name": "Company",
-            "price": "99",
-            "description": "Relevant for multiple users, extended & premium support.",
+            "price": "449",
+            "description": "Functional for multiple users, extended & premium support.",
             "featured": true,
             "features": [
                 "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 10 developers",
-                "Premium support: 24 months",
-                "Free updates: 24 months"
+                "Simple workflow integration",
+                "Team size: 2-10 engineers",
+                "Premium support: 36 months",
+                "Free updates: 48 months"
             ],
             "button": {
                 "text": "Get started",
@@ -44,14 +44,14 @@ layout: "pricing"
         },
         {
             "name": "Enterprise",
-            "price": "499",
-            "description": "Best for large scale uses and extended redistribution rights.",
+            "price": "799",
+            "description": "Best for large scale uses and cross-team cooperation.",
             "features": [
                 "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 100+ developers",
-                "Premium support: 36 months",
-                "Free updates: 36 months"
+                "Simple workflow integration",
+                "Team size: 10+ engineers/multiple teams",
+                "Premium support: 48 months",
+                "Free updates: 72 months"
             ],
             "button": {
                 "text": "Get started",
@@ -63,64 +63,6 @@ layout: "pricing"
 {{< /pricing-table-1 >}}
 
 <div class="mt-16"></div>
-
-{{< pricing-table-2 >}}
-{
-    "title": "Alternative Pricing Options",
-    "description": "Choose a plan that best suits your business needs with our flexible pricing options.",
-    "plans": [
-        {
-            "name": "Basic",
-            "price": "19",
-            "description": "Perfect for freelancers and solo developers.",
-            "features": [
-                "Core features included",
-                "Community support",
-                "Team size: 1 developer",
-                "Basic analytics",
-                "Monthly updates"
-            ],
-            "button": {
-                "text": "Choose Basic",
-                "url": "#"
-            }
-        },
-        {
-            "name": "Professional",
-            "price": "79",
-            "description": "Ideal for growing development teams.",
-            "featured": true,
-            "features": [
-                "All Basic features",
-                "Priority support",
-                "Team size: up to 5 developers",
-                "Advanced analytics",
-                "CI/CD integration"
-            ],
-            "button": {
-                "text": "Choose Pro",
-                "url": "#"
-            }
-        },
-        {
-            "name": "Business",
-            "price": "299",
-            "description": "For large organizations and enterprises.",
-            "features": [
-                "All Pro features",
-                "24/7 dedicated support",
-                "Unlimited team size",
-                "Custom integrations",
-                "SLA guarantee"
-            ],
-            "button": {
-                "text": "Choose Business",
-                "url": "#"
-            }
-        }
-    ]
-}
-{{< /pricing-table-2 >}}
 
 {{< faq >}}
 {

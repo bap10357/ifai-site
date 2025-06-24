@@ -1,29 +1,5 @@
 ---
 title: Home
-client_logos:
-  - name: "Customer 1"
-    logo: "/images/logos/customer-1.png"
-  - name: "Customer 2"
-    logo: "/images/logos/customer-2.png"
-  - name: "Customer 3"
-    logo: "/images/logos/customer-3.png"
-  - name: "Customer 4"
-    logo: "/images/logos/customer-4.png"
-  - name: "Customer 5"
-    logo: "/images/logos/customer-5.png"
-testimonials:
-  - name: "John Smith"
-    title: "CTO at TechStartup"
-    avatar: "/images/testimonial-1.svg"
-    quote: "We built our SaaS website in record time. The performance is incredible, and our users love the modern, clean design."
-  - name: "Sarah Johnson"
-    title: "Founder at WebFlow"
-    avatar: "/images/testimonial-1.svg"
-    quote: "The combination of Hugo and TailwindCSS delivers lightning-fast performance. Our website loads instantly, which has significantly improved our conversion rates."
-  - name: "Michael Chen"
-    title: "Lead Developer at CloudTech"
-    avatar: "/images/testimonial-1.svg"
-    quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
 ---
 
 {{< hero 
@@ -39,56 +15,47 @@ testimonials:
     gradient-angle="180"
 >}}
 
-{{< client-logos animate="true" >}}
-
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Next-generation verification for efficient workflows"
+    description="AI-powered issue prediction, detection, tracking, and summary makes verification cheaper, faster, simpler, and easier, from small to large teams."
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    title="Reduce stalled production at the verification stage"
+    description="SmartPCB's ease of use makes finding interference and manufacturability problems faster and simpler, reducing the number of design-verification cycles before production."
+    badge="Efficient"
     badgeColor="#2563eb"
     image="/images/feature-1.svg"
     buttonText="Learn More"
-    buttonLink="/features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    buttonLink="/features/efficiency/"
+    features="Readable problem summaries,Deep and detailed reports,Viewable issue maps,Fast device simulation"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    title="Assisted by machine learning"
+    description="Our machine learning software and extensive training dataset give the software experience and ability to uncover both simple and uncommon errors with high accuracy."
+    badge="Intelligent"
     badgeColor="#7c3aed"
     image="/images/feature-2.svg"
     buttonText="Learn More"
-    buttonLink="/features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    buttonLink="/features/machine-learning/"
+    features="Entirely local operation,Fast performance,Graphical and textual output,In-tandem with mathematics and simulation"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    title="Easier engineering"
+    description="SmartPCB is designed to be a drop-in replacement for existing verification software packages — no employee restructuring or extensive retraining necessary. SmartPCB provides more information more readably than competitive solutions, making verification easier without taking control from the team."
+    badge="Ease of use"
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    buttonLink="/features/ease-of-use/"
+    features="Familiar interface,Organized information,AI only when necessary,Integrations with design and production software"
     imagePosition="right"
 >}}
 
 {{< /features-section >}}
-
-{{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
-    animate="true"
-    background-color="#f1f5f9"
->}}
 
 {{< cta >}}
