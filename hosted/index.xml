@@ -8,13 +8,6 @@
     <language>en-us</language>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/contact/</guid>
-      <description>&lt;p&gt;Test.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Get started</title>
       <link>/get-started/</link>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
@@ -85,6 +78,13 @@
       <description>&lt;h2 id=&#34;comprehensive-design-system&#34;&gt;Comprehensive Design System&lt;/h2&gt;&#xA;&lt;p&gt;Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&lt;/p&gt;&#xA;&lt;h3 id=&#34;design-components&#34;&gt;Design Components&lt;/h3&gt;&#xA;&lt;h4 id=&#34;core-elements&#34;&gt;Core Elements&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Typography system with perfect vertical rhythm&lt;/li&gt;&#xA;&lt;li&gt;Color palette with semantic variables&lt;/li&gt;&#xA;&lt;li&gt;Spacing and sizing scales&lt;/li&gt;&#xA;&lt;li&gt;Grid and layout systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;ui-components&#34;&gt;UI Components&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navigation components (headers, footers, menus)&lt;/li&gt;&#xA;&lt;li&gt;Hero sections and feature displays&lt;/li&gt;&#xA;&lt;li&gt;Cards and content containers&lt;/li&gt;&#xA;&lt;li&gt;Forms and input elements&lt;/li&gt;&#xA;&lt;li&gt;Buttons and CTAs&lt;/li&gt;&#xA;&lt;li&gt;Pricing tables&lt;/li&gt;&#xA;&lt;li&gt;Testimonial displays&lt;/li&gt;&#xA;&lt;li&gt;Team member profiles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;design-features&#34;&gt;Design Features&lt;/h4&gt;&#xA;&lt;h5 id=&#34;customization&#34;&gt;Customization&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Easy theme customization through TailwindCSS&lt;/li&gt;&#xA;&lt;li&gt;Brand color management&lt;/li&gt;&#xA;&lt;li&gt;Typography customization&lt;/li&gt;&#xA;&lt;li&gt;Spacing system adjustment&lt;/li&gt;&#xA;&lt;li&gt;Component variants&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;accessibility&#34;&gt;Accessibility&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;WCAG 2.1 compliant components&lt;/li&gt;&#xA;&lt;li&gt;Proper ARIA attributes&lt;/li&gt;&#xA;&lt;li&gt;Keyboard navigation support&lt;/li&gt;&#xA;&lt;li&gt;High contrast mode support&lt;/li&gt;&#xA;&lt;li&gt;Screen reader optimized&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;responsive-design&#34;&gt;Responsive Design&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mobile-first approach&lt;/li&gt;&#xA;&lt;li&gt;Breakpoint system&lt;/li&gt;&#xA;&lt;li&gt;Fluid typography&lt;/li&gt;&#xA;&lt;li&gt;Adaptive layouts&lt;/li&gt;&#xA;&lt;li&gt;Touch-friendly interactions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/contact/</guid>
+      <description>&lt;p&gt;Contact our team for more information and a guide to implementing SmartPCB in your workflow with the link below.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:support.dummyemail@smartpcb.pro&#34;&gt;support.dummyemail@smartpcb.pro&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Developer Experience</title>
       <link>/features/developer-experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -117,7 +117,7 @@
       <link>/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/pricing/</guid>
-      <description>&lt;section class=&#34;py-16 bg-white&#34;&gt;&#xA;    &lt;div class=&#34;max-w-6xl mx-auto px-4 sm:px-6 lg:px-8&#34;&gt;&#xA;        &#xA;        &lt;div class=&#34;text-center&#34;&gt;&#xA;            &lt;h2 class=&#34;text-3xl font-bold text-gray-900&#34;&gt;Verification at all scales: from startups to corporations&lt;/h2&gt;&#xA;            &#xA;            &lt;p class=&#34;mt-4 text-xl text-gray-600&#34;&gt;SmartPCB is software designed for teams as small as one and scalable to teams of any size, in any PCB verification setting. Whether it&amp;#39;s for internal testing or a final product, SmartPCB&amp;#39;s AI-assisted algorithms make verification simple and functional.&lt;/p&gt;&#xA;            &#xA;        &lt;/div&gt;&#xA;        &#xA;        &#xA;        &lt;div class=&#34;mt-16&#34;&gt;&#xA;            &lt;div class=&#34;grid grid-cols-1 md:grid-cols-3 gap-8&#34;&gt;&#xA;                &#xA;                &lt;div class=&#34;w-full&#34;&gt;&#xA;                    &lt;div class=&#34;h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative&#34;&gt;&#xA;                        &#xA;                        &lt;div class=&#34;p-8 flex flex-col flex-grow&#34;&gt;&#xA;                            &lt;div class=&#34;mb-6&#34;&gt;&#xA;                                &lt;h3 class=&#34;text-2xl font-bold text-gray-900&#34;&gt;Starter&lt;/h3&gt;&#xA;                                &lt;p class=&#34;mt-2 text-gray-500&#34;&gt;Best option for personal use &amp;amp; for your next project.&lt;/p&gt;</description>
+      <description>&lt;section class=&#34;py-16 bg-white&#34;&gt;&#xA;    &lt;div class=&#34;max-w-6xl mx-auto px-4 sm:px-6 lg:px-8&#34;&gt;&#xA;        &#xA;        &lt;div class=&#34;text-center&#34;&gt;&#xA;            &lt;h2 class=&#34;text-3xl font-bold text-gray-900&#34;&gt;Verification at all scales: from startups to corporations&lt;/h2&gt;&#xA;            &#xA;            &lt;p class=&#34;mt-4 text-xl text-gray-600&#34;&gt;SmartPCB is software designed for teams as small as one and scalable to teams of any size, in any PCB verification setting. Whether it&amp;#39;s for internal testing or a final product, SmartPCB&amp;#39;s AI-assisted algorithms make verification simple and functional.&lt;/p&gt;&#xA;            &#xA;        &lt;/div&gt;&#xA;        &#xA;        &#xA;        &lt;div class=&#34;mt-16&#34;&gt;&#xA;            &lt;div class=&#34;grid grid-cols-1 md:grid-cols-3 gap-8&#34;&gt;&#xA;                &#xA;                &lt;div class=&#34;w-full&#34;&gt;&#xA;                    &lt;div class=&#34;h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative&#34;&gt;&#xA;                        &#xA;                        &lt;div class=&#34;p-8 flex flex-col flex-grow&#34;&gt;&#xA;                            &lt;div class=&#34;mb-6&#34;&gt;&#xA;                                &lt;h3 class=&#34;text-2xl font-bold text-gray-900&#34;&gt;Starter&lt;/h3&gt;&#xA;                                &lt;p class=&#34;mt-2 text-gray-500&#34;&gt;Designed for teams of one person, best for startups and small firms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
