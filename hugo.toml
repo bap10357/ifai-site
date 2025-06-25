@@ -74,11 +74,6 @@ enableGitInfo = true      # Enable Git info for lastmod
     [params.cta.secondary_button]
       text = "See pricing"
       url = "/pricing"
-  # Social Media Links (optional)
-  [params.social]
-    linkedin = "https://linkedin.com/in/yourusername"
-    twitter = "https://twitter.com/yourusername"
-    github = "https://github.com/yourusername"
 
 # Navigation Menu
 [menu]

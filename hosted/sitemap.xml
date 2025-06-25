@@ -110,9 +110,6 @@
     <loc>/company/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
   </url><url>
-    <loc>/features/efficiency/</loc>
-    <lastmod>2025-06-24T10:19:11-04:00</lastmod>
-  </url><url>
     <loc>/features/ease-of-use/</loc>
     <lastmod>2025-06-24T10:19:11-04:00</lastmod>
   </url><url>
@@ -136,5 +133,8 @@
   </url><url>
     <loc>/privacy/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
+  </url><url>
+    <loc>/features/efficiency/</loc>
+    <lastmod>2025-06-24T10:19:11-04:00</lastmod>
   </url>
 </urlset>

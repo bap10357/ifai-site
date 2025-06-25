@@ -1,21 +1,18 @@
 ---
-title: "Beautiful Design System"
-description: "Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
+title: "Reduce stalled production at the verification stage"
+description: "SmartPCB's ease of use makes finding interference and manufacturability problems faster and simpler, reducing the number of design-verification cycles before production."
 layout: "feature"
-badge: "Design"
+badge: "Efficient"
 badgeColor: "#7c3aed"
 features:
-  - title: "Modern UI Components"
-    description: "A complete set of pre-built components designed for SaaS websites. From navigation bars to pricing tables, everything you need is included."
-  - title: "Responsive Design"
-    description: "Every component is fully responsive and tested across all device sizes. Your website will look great on everything from phones to large displays."
-  - title: "Custom Typography"
-    description: "Carefully crafted typography system with perfect vertical rhythm. Easily customize fonts and sizes to match your brand guidelines."
-  - title: "Flexible Layouts"
-    description: "Modular layout system that adapts to your content. Create unique page layouts while maintaining consistent spacing and alignment."
-demo:
-  description: "Explore our comprehensive design system built with TailwindCSS."
-  image: "/images/feature-2.svg"
+  - title: "Readable problem summaries"
+    description: "SmartPCB AI generates reports based on information from its simulations, which it compiles into readable natural language summarizing the most important details of problems encountered during the verification stage."
+  - title: "Deep and detailed reports"
+    description: "Data from multiple simulation sources is combined in order to cover the entire spectrum of potential problems found in verification. Data can be distributed in automatically-generated reports to clients and other teams based on the information that they need, when they need it."
+  - title: "Viewable issue maps"
+    description: "Heatmaps of problems like signal interference and power quality can be used to produce a visual reassurance that the product is ready for production before the schematic is sent to the manufacturer."
+  - title: "Fast device simulation"
+    description: "Integrations with industry-standard simulation software allows for familiar, fast, and reliable testing without manual data summary or entry. Moving simulation results from software to report is only a press of a button."
 ---
 
 ## Comprehensive Design System
