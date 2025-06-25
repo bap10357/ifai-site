@@ -5,17 +5,14 @@ layout: "feature"
 badge: "Intelligent"
 badgeColor: "#2563eb"
 features:
-  - title: "Sub-second Page Loads"
-    description: "Experience instant page transitions with Hugo's static site generation. Pages load in milliseconds, ensuring visitors stay engaged."
-  - title: "Optimized Assets"
-    description: "Automatically optimize images, CSS, and JavaScript. Reduce file sizes without compromising quality for faster load times."
-  - title: "Minimal JavaScript"
-    description: "Built with minimal JavaScript dependencies. Pages remain fast and functional while keeping the bundle size small."
-  - title: "CDN-Ready Output"
-    description: "Deploy your site to any CDN for global distribution. Static files are optimized for edge caching and maximum performance."
-demo:
-  description: "See how our optimized build process delivers lightning-fast page loads and smooth transitions."
-  image: "/images/feature-1.svg"
+  - title: "Entirely local operation"
+    description: "Operation solely on your workstation or company servers ensure that design, simulation, and other data are safe and secure."
+  - title: "Performance and stability"
+    description: "Our well-optimized and efficient AI and other software models are performant and reliable, ensuring maximum software uptime and production at the speed of your team."
+  - title: "Graphical and textual output"
+    description: "Graphical output and reports can be generated and combined automatically into reports that can be easily sent between teams or used for documentation."
+  - title: "In-tandem with mathematics and simulation"
+    description: "Traditional mathematical models and simulations are used as input for SmartPCB's AI algorithms, ensuring accuracy and integration with your existing workflow."
 ---
 
 ## Built for Speed

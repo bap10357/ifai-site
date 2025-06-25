@@ -5,17 +5,14 @@ layout: "feature"
 badge: "Ease of use"
 badgeColor: "#16a34a"
 features:
-  - title: "Component System"
-    description: "Modular component architecture makes it easy to build and maintain your website. Reuse components across pages while maintaining consistency."
-  - title: "Easy Customization"
-    description: "Clear configuration files and well-organized code make it simple to customize any aspect of your site. No deep Hugo knowledge required."
-  - title: "Clean Code"
-    description: "Well-structured, documented code following best practices. Makes maintenance and updates straightforward for any developer."
-  - title: "Detailed Documentation"
-    description: "Comprehensive documentation covers everything from setup to advanced customization. Includes examples and best practices."
-demo:
-  description: "See how our developer-friendly architecture makes building websites a breeze."
-  image: "/images/feature-3.svg"
+  - title: "Familiar interface"
+    description: "SmartPCB's interface is organized to be clean and easy to understand for engineers, even with years of experience in other software tools. Use of platform-standard conventions make learning SmartPCB intuitive."
+  - title: "Organized information"
+    description: "Customize layouts by organizing the data you need exactly as you need it. Save and snapshot projects and workspaces integral to production for continuation and reuse."
+  - title: "AI only when necessary"
+    description: "AI-powered algorithms are used when necessary, but designed not to disrupt traditional task flows. The use and nature of AI is always explicit, logical, and designed to uphold engineering standards."
+  - title: "Integrations with design and production software"
+    description: "Attach inputs and outputs for existing software packages already part of your workflow — SmartPCB can be used only when and exactly as needed."
 ---
 
 ## Built for Developers
