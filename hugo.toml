@@ -91,7 +91,3 @@ enableGitInfo = true      # Enable Git info for lastmod
     name = "Pricing"
     url = "/pricing"
     weight = 2
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog"
-    weight = 3

@@ -1,8 +1,9 @@
 ---
 title: "Contact"
-date: "2025-06-23"
+layout: "company"
+description: "Get in contact with us for inquiries, estimates, or to learn more about what sets SmartPCB apart from other PCB verification software tools."
 ---
 
-Contact our team for more information and a guide to implementing SmartPCB in your workflow with the link below.
-
-[support.dummyemail@smartpcb.pro](mailto:support.dummyemail@smartpcb.pro)
+<div style="text-align: center; padding: 3em">
+  <p style="text-size: 24pt">Get in touch with our team by emailing <a style="color: #4259d5; text-decoration: underline" href="mailto:bmp7008@rit.edu">bmp7008@rit.edu</a>.</p>
+</div>

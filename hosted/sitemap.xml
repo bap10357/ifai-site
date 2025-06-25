@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/contact/</loc>
-    <lastmod>2025-06-24T10:19:11-04:00</lastmod>
-  </url><url>
-    <loc>/get-started/</loc>
-    <lastmod>2025-06-23T11:36:14-04:00</lastmod>
-  </url><url>
     <loc>/jobs/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
   </url><url>
@@ -17,107 +11,22 @@
     <loc>/jobs/senior-frontend-developer/</loc>
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
+    <loc>/features/machine-learning/</loc>
+    <lastmod>2025-06-25T15:27:57-04:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
   </url><url>
-    <loc>/categories/content/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/blog/content-management-hugo/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/content-management/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/organization/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/workflow/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/optimization/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/blog/optimizing-hugo-performance/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/categories/performance/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/performance/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/seo/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/blog/deploying-hugo-sites/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/categories/deployment/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/deployment/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/github-pages/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/netlify/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/vercel/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/customization/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/blog/customizing-your-hugo-theme/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/categories/development/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/themes/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/web-design/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/beginners/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/blog/getting-started-with-hugo/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/static-site/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/categories/tutorials/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/web-development/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/company/</loc>
-    <lastmod>2025-06-23T09:28:56-04:00</lastmod>
-  </url><url>
-    <loc>/features/machine-learning/</loc>
-    <lastmod>2025-06-25T09:06:40-04:00</lastmod>
+    <loc>/contact/</loc>
+    <lastmod>2025-06-24T10:19:11-04:00</lastmod>
   </url><url>
     <loc>/features/ease-of-use/</loc>
-    <lastmod>2025-06-25T09:06:40-04:00</lastmod>
+    <lastmod>2025-06-25T15:27:57-04:00</lastmod>
   </url><url>
     <loc>/features/</loc>
-    <lastmod>2025-06-25T09:06:40-04:00</lastmod>
+    <lastmod>2025-06-25T15:27:57-04:00</lastmod>
+  </url><url>
+    <loc>/get-started/</loc>
+    <lastmod>2025-06-23T11:36:14-04:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2025-06-24T10:10:35-04:00</lastmod>
@@ -135,6 +44,8 @@
     <lastmod>2025-06-23T09:28:56-04:00</lastmod>
   </url><url>
     <loc>/features/efficiency/</loc>
-    <lastmod>2025-06-25T08:42:54-04:00</lastmod>
+    <lastmod>2025-06-25T15:27:57-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
