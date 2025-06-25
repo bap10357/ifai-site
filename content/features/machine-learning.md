@@ -1,8 +1,8 @@
 ---
-title: "Lightning-Fast Performance"
-description: "Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
+title: "Assisted by machine learning"
+description: "Our machine learning software and extensive training dataset give the software experience and ability to uncover both simple and uncommon errors with high accuracy."
 layout: "feature"
-badge: "Performance"
+badge: "Intelligent"
 badgeColor: "#2563eb"
 features:
   - title: "Sub-second Page Loads"

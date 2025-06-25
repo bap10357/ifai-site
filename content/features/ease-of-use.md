@@ -1,8 +1,8 @@
 ---
-title: "Developer Experience"
-description: "Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
+title: "Easier engineering"
+description: "SmartPCB is designed to be a drop-in replacement for existing verification software packages — no employee restructuring or extensive retraining necessary. SmartPCB provides more information more readably than competitive solutions, making verification easier without taking control from the team."
 layout: "feature"
-badge: "Development"
+badge: "Ease of use"
 badgeColor: "#16a34a"
 features:
   - title: "Component System"
