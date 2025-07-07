@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on SmartPCB AI</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Home on SmartPCB AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product Manager</title>
-      <link>/jobs/product-manager/</link>
+      <link>//localhost:1313/jobs/product-manager/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/jobs/product-manager/</guid>
+      <guid>//localhost:1313/jobs/product-manager/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re looking for a Product Manager to join our team and help shape the future of our product.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-the-role&#34;&gt;About the Role&lt;/h2&gt;&#xA;&lt;p&gt;As a Product Manager, you&amp;rsquo;ll be responsible for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Defining and executing the product strategy and roadmap&lt;/li&gt;&#xA;&lt;li&gt;Working closely with engineering, design, and marketing teams&lt;/li&gt;&#xA;&lt;li&gt;Conducting user research and gathering customer feedback&lt;/li&gt;&#xA;&lt;li&gt;Analyzing market trends and competitive landscape&lt;/li&gt;&#xA;&lt;li&gt;Prioritizing features and managing the product backlog&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;4+ years of product management experience in SaaS&lt;/li&gt;&#xA;&lt;li&gt;Strong analytical and problem-solving skills&lt;/li&gt;&#xA;&lt;li&gt;Excellent communication and stakeholder management abilities&lt;/li&gt;&#xA;&lt;li&gt;Experience with agile development methodologies&lt;/li&gt;&#xA;&lt;li&gt;Data-driven decision making mindset&lt;/li&gt;&#xA;&lt;li&gt;Technical background or ability to work closely with technical teams&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nice-to-have&#34;&gt;Nice to Have&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MBA or relevant advanced degree&lt;/li&gt;&#xA;&lt;li&gt;Experience with B2B SaaS products&lt;/li&gt;&#xA;&lt;li&gt;Background in UX design or software development&lt;/li&gt;&#xA;&lt;li&gt;Experience with product analytics tools&lt;/li&gt;&#xA;&lt;li&gt;Public speaking or presentation experience&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Competitive salary and equity package&lt;/li&gt;&#xA;&lt;li&gt;Comprehensive health, dental, and vision insurance&lt;/li&gt;&#xA;&lt;li&gt;401(k) matching&lt;/li&gt;&#xA;&lt;li&gt;Flexible PTO policy&lt;/li&gt;&#xA;&lt;li&gt;Professional development budget&lt;/li&gt;&#xA;&lt;li&gt;Wellness programs&lt;/li&gt;&#xA;&lt;li&gt;Company-sponsored events&lt;/li&gt;&#xA;&lt;li&gt;Office perks and snacks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;&#xA;&lt;p&gt;Please send your resume and a cover letter detailing your product management experience and why you&amp;rsquo;re interested in joining our team. Include examples of products you&amp;rsquo;ve managed and their impact.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Senior Frontend Developer</title>
-      <link>/jobs/senior-frontend-developer/</link>
+      <link>//localhost:1313/jobs/senior-frontend-developer/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/jobs/senior-frontend-developer/</guid>
+      <guid>//localhost:1313/jobs/senior-frontend-developer/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re looking for a Senior Frontend Developer to join our growing team and help shape the future of our SaaS platform.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-the-role&#34;&gt;About the Role&lt;/h2&gt;&#xA;&lt;p&gt;As a Senior Frontend Developer, you&amp;rsquo;ll be responsible for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Building and maintaining high-quality, reusable UI components&lt;/li&gt;&#xA;&lt;li&gt;Collaborating with designers to implement pixel-perfect interfaces&lt;/li&gt;&#xA;&lt;li&gt;Optimizing application performance and accessibility&lt;/li&gt;&#xA;&lt;li&gt;Mentoring junior developers and reviewing code&lt;/li&gt;&#xA;&lt;li&gt;Contributing to technical architecture decisions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5+ years of experience in frontend development&lt;/li&gt;&#xA;&lt;li&gt;Expert knowledge of modern JavaScript, HTML, and CSS&lt;/li&gt;&#xA;&lt;li&gt;Strong experience with React or Vue.js&lt;/li&gt;&#xA;&lt;li&gt;Understanding of modern frontend build tools and workflows&lt;/li&gt;&#xA;&lt;li&gt;Experience with responsive design and cross-browser compatibility&lt;/li&gt;&#xA;&lt;li&gt;Strong communication skills and ability to work in a remote team&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nice-to-have&#34;&gt;Nice to Have&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Experience with TypeScript&lt;/li&gt;&#xA;&lt;li&gt;Knowledge of testing frameworks (Jest, Cypress)&lt;/li&gt;&#xA;&lt;li&gt;Contributions to open source projects&lt;/li&gt;&#xA;&lt;li&gt;Experience with design systems&lt;/li&gt;&#xA;&lt;li&gt;Understanding of backend technologies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Competitive salary and equity package&lt;/li&gt;&#xA;&lt;li&gt;Flexible working hours&lt;/li&gt;&#xA;&lt;li&gt;Remote-first culture&lt;/li&gt;&#xA;&lt;li&gt;Health insurance&lt;/li&gt;&#xA;&lt;li&gt;Learning and development budget&lt;/li&gt;&#xA;&lt;li&gt;Annual team retreats&lt;/li&gt;&#xA;&lt;li&gt;Home office setup allowance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;&#xA;&lt;p&gt;Please send your resume, portfolio, and a brief cover letter explaining why you&amp;rsquo;d be a great fit for our team. Include links to any relevant projects or open source contributions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Assisted by machine learning</title>
-      <link>/features/machine-learning/</link>
+      <link>//localhost:1313/features/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/features/machine-learning/</guid>
-      <description>&lt;h2 id=&#34;built-for-speed&#34;&gt;Built for Speed&lt;/h2&gt;&#xA;&lt;p&gt;Our theme is engineered from the ground up with performance in mind. By leveraging Hugo&amp;rsquo;s powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.&lt;/p&gt;&#xA;&lt;h3 id=&#34;performance-metrics&#34;&gt;Performance Metrics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Build Time&lt;/strong&gt;: Less than 1 second for most sites&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Page Load Time&lt;/strong&gt;: Under 500ms first contentful paint&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time to Interactive&lt;/strong&gt;: Under 1.5 seconds&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Google Lighthouse Score&lt;/strong&gt;: 95+ on all metrics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;optimization-features&#34;&gt;Optimization Features&lt;/h3&gt;&#xA;&lt;h4 id=&#34;asset-optimization&#34;&gt;Asset Optimization&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automatic image optimization and WebP conversion&lt;/li&gt;&#xA;&lt;li&gt;CSS minification and purging of unused styles&lt;/li&gt;&#xA;&lt;li&gt;JavaScript bundling and tree-shaking&lt;/li&gt;&#xA;&lt;li&gt;Lazy loading of images and components&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;caching-strategy&#34;&gt;Caching Strategy&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Efficient browser caching with proper headers&lt;/li&gt;&#xA;&lt;li&gt;Static asset fingerprinting&lt;/li&gt;&#xA;&lt;li&gt;Pre-rendered HTML for instant loads&lt;/li&gt;&#xA;&lt;li&gt;Service worker for offline capabilities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;cdn-integration&#34;&gt;CDN Integration&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built for global distribution&lt;/li&gt;&#xA;&lt;li&gt;Edge caching ready&lt;/li&gt;&#xA;&lt;li&gt;Automatic cache invalidation&lt;/li&gt;&#xA;&lt;li&gt;Geographic redundancy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.&lt;/p&gt;</description>
+      <guid>//localhost:1313/features/machine-learning/</guid>
+      <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>&lt;div style=&#34;text-align: center; padding: 3em&#34;&gt;&#xA;  &lt;p style=&#34;text-size: 24pt&#34;&gt;Get in touch with our team by emailing &lt;a style=&#34;color: #4259d5; text-decoration: underline&#34; href=&#34;mailto:bmp7008@rit.edu&#34;&gt;bmp7008@rit.edu&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Easier engineering</title>
-      <link>/features/ease-of-use/</link>
+      <link>//localhost:1313/features/ease-of-use/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/features/ease-of-use/</guid>
-      <description>&lt;h2 id=&#34;built-for-developers&#34;&gt;Built for Developers&lt;/h2&gt;&#xA;&lt;p&gt;Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.&lt;/p&gt;&#xA;&lt;h3 id=&#34;development-features&#34;&gt;Development Features&lt;/h3&gt;&#xA;&lt;h4 id=&#34;project-structure&#34;&gt;Project Structure&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Logical directory organization&lt;/li&gt;&#xA;&lt;li&gt;Clear separation of concerns&lt;/li&gt;&#xA;&lt;li&gt;Modular component architecture&lt;/li&gt;&#xA;&lt;li&gt;Consistent naming conventions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;development-workflow&#34;&gt;Development Workflow&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fast hot reload development server&lt;/li&gt;&#xA;&lt;li&gt;Automatic asset processing&lt;/li&gt;&#xA;&lt;li&gt;Source maps for debugging&lt;/li&gt;&#xA;&lt;li&gt;Build process optimization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;component-system&#34;&gt;Component System&lt;/h4&gt;&#xA;&lt;h5 id=&#34;shortcodes&#34;&gt;Shortcodes&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rich set of pre-built shortcodes&lt;/li&gt;&#xA;&lt;li&gt;Easy to create custom shortcodes&lt;/li&gt;&#xA;&lt;li&gt;Documentation for each shortcode&lt;/li&gt;&#xA;&lt;li&gt;Example implementations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;partials&#34;&gt;Partials&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reusable partial templates&lt;/li&gt;&#xA;&lt;li&gt;Context-aware components&lt;/li&gt;&#xA;&lt;li&gt;Easy to extend and modify&lt;/li&gt;&#xA;&lt;li&gt;Clear documentation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;customization&#34;&gt;Customization&lt;/h4&gt;&#xA;&lt;h5 id=&#34;configuration&#34;&gt;Configuration&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Central configuration file&lt;/li&gt;&#xA;&lt;li&gt;Environment variables support&lt;/li&gt;&#xA;&lt;li&gt;Feature flags&lt;/li&gt;&#xA;&lt;li&gt;Easy theme customization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;styling&#34;&gt;Styling&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TailwindCSS integration&lt;/li&gt;&#xA;&lt;li&gt;PostCSS processing&lt;/li&gt;&#xA;&lt;li&gt;Custom CSS support&lt;/li&gt;&#xA;&lt;li&gt;Design token system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;documentation&#34;&gt;Documentation&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Getting started guide&lt;/li&gt;&#xA;&lt;li&gt;Component documentation&lt;/li&gt;&#xA;&lt;li&gt;Configuration reference&lt;/li&gt;&#xA;&lt;li&gt;Best practices&lt;/li&gt;&#xA;&lt;li&gt;Troubleshooting guide&lt;/li&gt;&#xA;&lt;li&gt;Deployment instructions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p&gt;</description>
+      <guid>//localhost:1313/features/ease-of-use/</guid>
+      <description></description>
     </item>
     <item>
       <title>Get started</title>
-      <link>/get-started/</link>
+      <link>//localhost:1313/get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/get-started/</guid>
+      <guid>//localhost:1313/get-started/</guid>
       <description>&lt;div style=&#34;text-align: center; padding: 3em&#34;&gt;&#xA;  &lt;p style=&#34;text-size: 24pt; font-style: italic&#34;&gt;This site is for illustration and does not represent an actual company.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Join Our Team</title>
-      <link>/careers/</link>
+      <link>//localhost:1313/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/careers/</guid>
+      <guid>//localhost:1313/careers/</guid>
       <description>&lt;p&gt;At Saasify, we believe in empowering our team members to do their best work. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;re looking for passionate individuals who want to make a difference and grow with us. If you&amp;rsquo;re excited about building the future of SaaS and working with cutting-edge technology, we&amp;rsquo;d love to hear from you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>License</title>
-      <link>/license/</link>
+      <link>//localhost:1313/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/license/</guid>
+      <guid>//localhost:1313/license/</guid>
       <description>&lt;h2 id=&#34;mit-license&#34;&gt;MIT License&lt;/h2&gt;&#xA;&lt;p&gt;Copyright (c) 2024&lt;/p&gt;&#xA;&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy&#xA;of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal&#xA;in the Software without restriction, including without limitation the rights&#xA;to use, copy, modify, merge, publish, distribute, sublicense, and/or sell&#xA;copies of the Software, and to permit persons to whom the Software is&#xA;furnished to do so, subject to the following conditions:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pricing</title>
-      <link>/pricing/</link>
+      <link>//localhost:1313/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pricing/</guid>
+      <guid>//localhost:1313/pricing/</guid>
       <description>&lt;section class=&#34;py-16 bg-white&#34;&gt;&#xA;    &lt;div class=&#34;max-w-6xl mx-auto px-4 sm:px-6 lg:px-8&#34;&gt;&#xA;        &#xA;        &lt;div class=&#34;text-center&#34;&gt;&#xA;            &lt;h2 class=&#34;text-3xl font-bold text-gray-900&#34;&gt;Verification at all scales: from startups to corporations&lt;/h2&gt;&#xA;            &#xA;            &lt;p class=&#34;mt-4 text-xl text-gray-600&#34;&gt;SmartPCB is software designed for teams as small as one and scalable to teams of any size, in any PCB verification setting. Whether it&amp;#39;s for internal testing or a final product, SmartPCB&amp;#39;s AI-assisted algorithms make verification simple and functional.&lt;/p&gt;&#xA;            &#xA;        &lt;/div&gt;&#xA;        &#xA;        &#xA;        &lt;div class=&#34;mt-16&#34;&gt;&#xA;            &lt;div class=&#34;grid grid-cols-1 md:grid-cols-3 gap-8&#34;&gt;&#xA;                &#xA;                &lt;div class=&#34;w-full&#34;&gt;&#xA;                    &lt;div class=&#34;h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative&#34;&gt;&#xA;                        &#xA;                        &lt;div class=&#34;p-8 flex flex-col flex-grow&#34;&gt;&#xA;                            &lt;div class=&#34;mb-6&#34;&gt;&#xA;                                &lt;h3 class=&#34;text-2xl font-bold text-gray-900&#34;&gt;Starter&lt;/h3&gt;&#xA;                                &lt;p class=&#34;mt-2 text-gray-500&#34;&gt;Designed for teams of one person, best for startups and small firms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>//localhost:1313/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/privacy/</guid>
+      <guid>//localhost:1313/privacy/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;At Saasify, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;information-we-collect&#34;&gt;Information We Collect&lt;/h2&gt;&#xA;&lt;h3 id=&#34;personal-information&#34;&gt;Personal Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Name and email address&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Billing information&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usage data and analytics&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Communication preferences&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;automatically-collected-information&#34;&gt;Automatically Collected Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;IP addresses&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Browser type&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Device information&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cookies and tracking technologies&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-we-use-your-information&#34;&gt;How We Use Your Information&lt;/h2&gt;&#xA;&lt;p&gt;We use the collected information for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Service Delivery&lt;/strong&gt;&lt;br&gt;&#xA;Providing and maintaining our service&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Updates&lt;/strong&gt;&lt;br&gt;&#xA;Notifying you about changes to our service&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Support&lt;/strong&gt;&lt;br&gt;&#xA;Providing customer support&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transactions&lt;/strong&gt;&lt;br&gt;&#xA;Processing your transactions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics&lt;/strong&gt;&lt;br&gt;&#xA;Analyzing usage patterns to improve our service&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;data-security&#34;&gt;Data Security&lt;/h2&gt;&#xA;&lt;p&gt;We implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reduce stalled production at the verification stage</title>
-      <link>/features/efficiency/</link>
+      <link>//localhost:1313/features/efficiency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/features/efficiency/</guid>
-      <description>&lt;h2 id=&#34;comprehensive-design-system&#34;&gt;Comprehensive Design System&lt;/h2&gt;&#xA;&lt;p&gt;Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&lt;/p&gt;&#xA;&lt;h3 id=&#34;design-components&#34;&gt;Design Components&lt;/h3&gt;&#xA;&lt;h4 id=&#34;core-elements&#34;&gt;Core Elements&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Typography system with perfect vertical rhythm&lt;/li&gt;&#xA;&lt;li&gt;Color palette with semantic variables&lt;/li&gt;&#xA;&lt;li&gt;Spacing and sizing scales&lt;/li&gt;&#xA;&lt;li&gt;Grid and layout systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;ui-components&#34;&gt;UI Components&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navigation components (headers, footers, menus)&lt;/li&gt;&#xA;&lt;li&gt;Hero sections and feature displays&lt;/li&gt;&#xA;&lt;li&gt;Cards and content containers&lt;/li&gt;&#xA;&lt;li&gt;Forms and input elements&lt;/li&gt;&#xA;&lt;li&gt;Buttons and CTAs&lt;/li&gt;&#xA;&lt;li&gt;Pricing tables&lt;/li&gt;&#xA;&lt;li&gt;Testimonial displays&lt;/li&gt;&#xA;&lt;li&gt;Team member profiles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;design-features&#34;&gt;Design Features&lt;/h4&gt;&#xA;&lt;h5 id=&#34;customization&#34;&gt;Customization&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Easy theme customization through TailwindCSS&lt;/li&gt;&#xA;&lt;li&gt;Brand color management&lt;/li&gt;&#xA;&lt;li&gt;Typography customization&lt;/li&gt;&#xA;&lt;li&gt;Spacing system adjustment&lt;/li&gt;&#xA;&lt;li&gt;Component variants&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;accessibility&#34;&gt;Accessibility&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;WCAG 2.1 compliant components&lt;/li&gt;&#xA;&lt;li&gt;Proper ARIA attributes&lt;/li&gt;&#xA;&lt;li&gt;Keyboard navigation support&lt;/li&gt;&#xA;&lt;li&gt;High contrast mode support&lt;/li&gt;&#xA;&lt;li&gt;Screen reader optimized&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;responsive-design&#34;&gt;Responsive Design&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mobile-first approach&lt;/li&gt;&#xA;&lt;li&gt;Breakpoint system&lt;/li&gt;&#xA;&lt;li&gt;Fluid typography&lt;/li&gt;&#xA;&lt;li&gt;Adaptive layouts&lt;/li&gt;&#xA;&lt;li&gt;Touch-friendly interactions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.&lt;/p&gt;</description>
+      <guid>//localhost:1313/features/efficiency/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
