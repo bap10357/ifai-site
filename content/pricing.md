@@ -11,7 +11,7 @@ layout: "pricing"
     "plans": [
         {
             "name": "Starter",
-            "price": "9,000",
+            "price": "10,000",
             "description": "Designed for teams of one person, best for startups and small firms.",
             "features": [
                 "Individual configuration",
@@ -27,7 +27,7 @@ layout: "pricing"
         },
         {
             "name": "Company",
-            "price": "12,000",
+            "price": "15,000",
             "description": "Functional for multiple users, extended & premium support.",
             "featured": true,
             "features": [
